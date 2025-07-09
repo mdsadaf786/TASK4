@@ -20,3 +20,4 @@ Task 4: Run-Length Encoding (RLE) – Compression & Decompression This task invo
 In task4.c, the compression logic counts consecutive repeated characters and prints the character followed by the count. The decompression logic reads pairs of characters and counts and repeats them accordingly. This exercise provides a real-world example of how data compression works in text and image file formats (like .bmp, .pcx, etc.).
 
 #OUTPUT TASK4 : 
+<img width="652" height="252" alt="Image" src="https://github.com/user-attachments/assets/726cf06c-8abb-4bb8-8022-7dfd550878ec" />
